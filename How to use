@@ -1,0 +1,6 @@
+How to use:
+
+You have to have on your computer the following programs: python (packages: numpy).
+Download the whole repository to your computer.
+
+1) Go to directory containg the repository file and write: python file_you_want_to_run.py 
